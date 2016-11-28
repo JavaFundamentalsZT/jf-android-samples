@@ -1,0 +1,5 @@
+include ':hello1-toast'
+include ':hello2-toast-resources'
+include ':hello3-views-code'
+include ':hello4-views-layouts'
+include ':hello5-views-events'
